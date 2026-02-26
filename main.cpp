@@ -29,8 +29,6 @@ int main() {
     cin >> Valiuta;
 
 
-
-
     switch (Pasirinkimas) {
         case 1:
             cout << "Valiutos palyginimas: " << endl; // Darysim palyginima, kokia valiuta yra pigesni o kokia brangesni
